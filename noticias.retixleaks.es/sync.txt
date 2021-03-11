@@ -1,1 +1,0 @@
-rsync -av . retixleaks@retixleaks.es:/var/www/noticias.retixleaks.es
