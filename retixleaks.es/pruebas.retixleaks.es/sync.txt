@@ -1,0 +1,1 @@
+rsync -av . retixleaks@retixleaks.es:/var/www/pruebas.retixleaks.es

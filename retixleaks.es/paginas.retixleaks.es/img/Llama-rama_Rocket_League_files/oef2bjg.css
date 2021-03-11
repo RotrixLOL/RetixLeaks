@@ -1,0 +1,29 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * geom-graphic:
+ *   - http://typekit.com/eulas/00000000000000003b9b12b0
+ *   - http://typekit.com/eulas/00000000000000003b9b12b1
+ *
+ * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2018-06-18 18:09:50 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=oef2bjg&ht=tk&f=37342.37343&a=11191293&app=typekit&e=css");
+
+@font-face {
+font-family:"geom-graphic";
+src:url("https://use.typekit.net/af/dbd48c/00000000000000003b9b12b0/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/dbd48c/00000000000000003b9b12b0/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/dbd48c/00000000000000003b9b12b0/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"geom-graphic";
+src:url("https://use.typekit.net/af/2607f7/00000000000000003b9b12b1/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"),url("https://use.typekit.net/af/2607f7/00000000000000003b9b12b1/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"),url("https://use.typekit.net/af/2607f7/00000000000000003b9b12b1/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+.tk-geom-graphic { font-family: "geom-graphic",sans-serif; }

@@ -1,0 +1,15 @@
+body {
+  font-family: 'Montserrat', 'Noto Sans JP', sans-serif;
+  background-color: #rgb(34, 135, 240);
+  padding: 10px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+
+}
+
+.g-signin2{
+  align-items: center;
+  padding-left: 10px;
+  padding-top: 10px;
+}
