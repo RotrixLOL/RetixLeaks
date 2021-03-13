@@ -15,5 +15,4 @@
 ### ·Escribe los datos correspondientes
 ### ·Crea la pull request y listo!!!
 
-## [![Video Tutorial]( "Video Tutorial")](https://youtu.be/_M8oalUyz10?t=289 "Video Tutorial")
-<a href="https://youtu.be/_M8oalUyz10?t=289" type="h2"></a>
+<a href="https://youtu.be/_M8oalUyz10?t=289" type="h2" target="_blank">Video Tutorial</a>
